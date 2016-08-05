@@ -18,61 +18,32 @@
 }
 
 .scroll {
-	
     height: 300px;
     overflow: scroll;
 }
 
-.greatVibesTXT {
-	font: 400 130px/0.8 'Great Vibes', cursive;
-	color: #2b2b2b;
-	text-shadow: 4px 4px 3px rgba(0,0,0.1);
-}
-
-.cookieTXT {
-	font: 400 130px/0.8 'Cookie', cursive;
-	color: #2b2b2b;
-	text-shadow: 4px 4px 3px rgba(0,0,0.1);
-}
-
-.arizonaTXT {
-	font: 400 100px/1.3 "Arizona" Helvetica, sans-serif;
-	color: #2b2b2b;
-	text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
-}
-
-.lobsterTwoTXT {
-	font: 400 100px/1.3 'Lobster Two', Helvetica, sans-serif;
-	color: #2b2b2b;
-	text-shadow: 1px 1px 0px #ededed, 4px 4px 0px rgba(0,0,0,0.15);
-}
-
-.alexBrushTXT {
-	font: 400 3.5em/125% 'Alex Brush', Helvetica, sans-serif;
-	color: #333;
-}
-
-.ardellaByJoeBeasonTXTh1 {	
-	color: #d54d7b; font-family: "Great vibes" , cursive;
+.titleTXT {	
+	color: #fe775c; font-family: "Great vibes" , cursive;
 	font-size: 165px;
 	line-height: 160px;
 	font-weight: normal;
 	margin-bottom: 0px;
 	margin-top: 40px;
 	text-align: center;
-	text-shadow: 0 1px 1px #fff;
+	text-shadow: 2px 2px 2px #dfc852;
+	padding-bottom: 10px;
 }
 
-.ardellaByJoeBeasonTXTp {
-	color: #7a7c7f; font-size: 29px;
+.bodyTXT {
+	color: #161515; font-size: 17px;
 	font-family: "Libre Baskerville", serif;
-	line-height: 45px; 
-	text-align: center;
+	line-height: 28px; 
+	text-align: justify;
 	text-shadow: 0 1px 1px #fff;
 	padding-top: 20px;
 }
 
-.ardellaByJoeBeasonTXTp.byline {
+.endTXT {
 	font-style: italic;
 	color: #B6B6B6;
 	font-size: 24px;
